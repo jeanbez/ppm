@@ -1,3 +1,4 @@
+#!/bin/bash
 #SBATCH --job-name=ppm
 #SBATCH --qos=debug
 #SBATCH --time=00:05:00
